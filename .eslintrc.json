@@ -1,0 +1,10 @@
+{
+  "extends": "standard",
+  "rules": {
+    "space-before-function-paren": ["error", "never"],
+    "semi": [2, "always"],
+    "no-unreachable": 0,
+    "prefer-const": 2,
+    "no-var": 2
+  }
+}
